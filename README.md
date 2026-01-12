@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Roopeshmanyam
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend 
 - 📫 How to reach me on roopeshmanyam325@gmail.com
 - linkedin: https://www.linkedin.com/in/manyamroopesh
 <!---
